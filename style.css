@@ -36,12 +36,12 @@
   background-color: #FFCE9E;
   border: 1px solid black;
 }
-.bkhorse{
-  background-image: url("horse.png");
-  background-size: contain;
+h1{
+  text-align: center;
+  margin-top: 30px;
 }
 
-.col-2{
+/*.col-2{
   width: calc(( 100% / 12) * 2);
 }
 .col-3{
@@ -55,7 +55,7 @@
 }
 .col-6{
   width: calc(( 100% / 12) * 6);
-  /*width= 50%;*/
+  /*width= 50%;
 }
 .col-7{
   width: calc(( 100% / 12) * 7);
@@ -74,4 +74,4 @@
 }
 .col-12{
   width: calc 100%;
-}
+}*/
