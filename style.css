@@ -40,6 +40,66 @@ h1{
   text-align: center;
   margin-top: 30px;
 }
+.horse{
+  background-image: url("horse1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  }
+.whorse{
+  background-image: url("whorse.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  }
+.Bishop{
+  background-image: url("Bishop.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.wBishop{
+  background-image: url("wBishop.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.Pawn{
+  background-image: url("Pawn.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.wPawn{
+  background-image: url("wPawn.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.wRook{
+  background-image: url("wRook.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.Rook{
+  background-image: url("Rook.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.King{
+  background-image: url("King.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.wKing{
+  background-image: url("wKing.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.Queen{
+  background-image: url("Queen.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.wQueen{
+  background-image: url("wQueen.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 
 /*.col-2{
   width: calc(( 100% / 12) * 2);
